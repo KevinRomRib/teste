@@ -8,8 +8,12 @@
 <br>
 
 <p align="center">
-  <a href ="#configuracoes"> Executando a aplicação </a>  | 
-  <a href ="#planejamento"> Planejamento </a>  |
+  <a href ="#desafio"> Desafio </a>  |   
+  <a href ="#escopo"> Escopo do Projeto </a>  |   
+  <a href ="#sprint"> Sprints </a>  | 
+  <a href ="#metodologia"> Metodologia Utilizada </a>  |
+  <a href ="#backlog"> Backlog das Sprints </a>  | 
+  <a href ="#historia"> Histórias de usuário </a>  |
   <a href ="#mvp"> MVP </a>  |
   <a href ="#equipe"> Equipe </a>
 </p>
@@ -17,15 +21,9 @@
 <br>
 
 <h4 align="center">
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
- <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
- <a href="https://www.python.org/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
- <a href="https://flask.palletsprojects.com/"><img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
- <a href="https://www.mysql.com/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
- <a href="https://www.sqlalchemy.org/"><img src ="/doc/front-end/badge-sqlalchemy.svg" width="100"></a>
- <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+ <a href="https://www.typescriptlang.org/"><img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+ <a href="https://nodejs.org/en/"><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </h4>
 
 <br>
@@ -35,13 +33,13 @@
 
 <br>
 
-## :pencil2: Desafio
+## :pencil2: Desafio <a id="desafio"></a>
 
 ...
 
 <br>
 
-## :dart: Escopo do Projeto
+## :dart: Escopo do Projeto <a id="escopo"></a>
 
 *Pré-requisitos:*
 
@@ -60,7 +58,7 @@
 
 
 
-## :date: Sprints
+## :date: Sprints <a id="sprint"></a>
 
 🔖 SPRINT 1 ([Link da Pasta](#link)):  Em andamento 🕗
 
@@ -72,35 +70,28 @@
 
 <br>
 
-## :computer: Tecnologias Utilizadas
 
-* *Banco de Dados:* ...
-* *Back-end:* ...
-* *Front-end:* ...
-
-<br>
-
-## :bulb: Metodologia Utilizada
+## :bulb: Metodologia Utilizada <a id="metodologia"></a>
 
 * *Metodologia Ágil:* Framework Scrum
 
 <br>
 
-## :dart: Backlog das Sprints
+## :dart: Backlog das Sprints <a id="backlog"></a>
 
 ...
 
 
 <br>
 
-## 📋 Histórias de usuário
+## 📋 Histórias de usuário <a id="historia"></a>
 
 ...
 
 
 <br>
 
-## 🚀 MVP
+## 🚀 MVP <a id="mvp"></a>
 
 ...
 
